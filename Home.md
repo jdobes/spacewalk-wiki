@@ -7,7 +7,7 @@
 
 
 
-### *Spacewalk 3.0* was released on November 29th, 2016:
+### *Spacewalk 3.1* was released on November 29th, 2016:
 
  * [Download and Install](HowToInstall)
 
